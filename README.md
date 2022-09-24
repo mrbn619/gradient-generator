@@ -1,3 +1,3 @@
-# Gradient-Generator
+## Gradient-Generator
 
-Gradient generator for background.
+*Gradient generator for web-page background*.
